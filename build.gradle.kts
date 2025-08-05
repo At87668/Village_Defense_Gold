@@ -55,7 +55,7 @@ dependencies {
     compileOnly("org.jetbrains:annotations:24.0.1")
 
     compileOnly("com.mojang:authlib:3.11.50")
-    compileOnly("com.comphenix.protocol:ProtocolLib:5.0.0")
+    compileOnly("com.comphenix.protocol:ProtocolLib:5.+")
     compileOnly(files("lib/spigot/1.8.8-R0.1.jar"))
 
     compileOnly("org.projectlombok:lombok:1.18.32")
