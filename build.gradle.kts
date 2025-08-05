@@ -63,7 +63,7 @@ dependencies {
 }
 
 group = "plugily.projects"
-version = "5.0.1-SNAPSHOT9"
+version = "5.0.1-SNAPSHOT10"
 description = "VillageDefense"
 java {
     withJavadocJar()
